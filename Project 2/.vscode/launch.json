@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestOnProbMatrix",
+            "request": "launch",
+            "mainClass": "TestOnProbMatrix",
+            "projectName": "Project 2_449b2dd3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bot1",
+            "request": "launch",
+            "mainClass": "Bot1",
+            "projectName": "Project 2_449b2dd3"
+        },
+        {
+            "type": "java",
+            "name": "Run",
+            "request": "launch",
+            "mainClass": "Run",
+            "projectName": "Project 2_449b2dd3"
+        }
+    ]
+}
